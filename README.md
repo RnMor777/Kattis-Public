@@ -23,31 +23,29 @@ Previously I had my solutions to kattis problems all available here, but I have 
 | A Towering Problem              | Python          | 2020-06-16 |
 | Autori                          | Python, C       | 2019-10-18 |
 | Avion                           | Python, Java, C | 2019-10-18 |
-
-
-| Babelfish                       | Python |   |
-| Baby Bites                      | Python |   |
-| Bacon, Eggs, and Spam           | Python |   |
-| Basketball One-on-One           | Python |   |
-| Batterup                        | Python |   |
-| Beavergnaw                      | Python |   |
-| Beehives                        | Python |   |
-| Bella                           | Python |   |
-| Betting                         | Python |   |
-| BirthdayMemorization            | Python |   |
-| Bjele                           | Python |   |
-| Black Friday                    | Python |   |
-| Boat Parts                      | Python |   |
-| Booking a Room                  | Python |   |
-| Boss Battle                     | Python |   |
-| Bounding Robots                 | Python |   |
-| Broken Swords                   | Python |   |
-| BuildingPyramids                | Python |   |
-| Bus                             | Python |   |
-| Careful Ascent                  | Python |   |
-| Cetiri                          | Python |   |
-| Cetvtra                         | Python |   |
-| Chanukah                        | Python |   |
+| Babelfish                       | Python          | 2020-06-23 |
+| Baby Bites                      | Python          | 2020-02-07 |
+| Bacon, Eggs, and Spam           | Python          | 2020-01-29 |
+| Basketball One-on-One           | Python, C       | 2019-11-03 |
+| Batterup                        | Python, C       | 2019-10-18 |
+| Beavergnaw                      | Python, C       | 2019-11-02 |
+| Beehives                        | Python          | 2020-06-16 |
+| Bela                            | Python, C       | 2019-10-18 |
+| Betting                         | Python          | 2022-09-27 |
+| Bijele                          | Python, C       | 2019-10-18 |
+| Birthday Memorization           | Python          | 2022-09-27 |
+| Black Friday                    | Python          | 2020-06-23 |
+| Boat Parts                      | Python, C       | 2019-11-20 |
+| Booking a Room                  | Python          | 2020-02-07 |
+| Bounding Robots                 | Python          | 2020-05-28 |
+| Broken Swords                   | Python          | 2020-05-29 |
+| Building Pyramids               | Python          | 2022-09-27 |
+| Bus                             | Python          | 2020-02-07 |
+| Careful Ascent                  | Python          | 2020-06-11 |
+| CD                              | C               | 2021-09-17 |
+| Cetiri                          | Python          | 2020-06-06 |
+| Cetvtra                         | Python, C       | 2019-10-31 |
+| Chanukah Challenge              | Python, C       | 2019-11-18 |
 | Closing the Loop                | Python |   |
 | Coconut Splat                   | Python |   |
 | CodeToSaveLives                 | Python |   |
