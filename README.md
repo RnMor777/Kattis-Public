@@ -46,45 +46,48 @@ Previously I had my solutions to kattis problems all available here, but I have 
 | Cetiri                          | Python          | 2020-06-06 |
 | Cetvtra                         | Python, C       | 2019-10-31 |
 | Chanukah Challenge              | Python, C       | 2019-11-18 |
-| Closing the Loop                | Python |   |
-| Coconut Splat                   | Python |   |
-| CodeToSaveLives                 | Python |   |
-| Coldputer Science               | Python |   |
-| Compound Words                  | Python |   |
-| Conformity                      | Python |   |
-| Cooking Water                   | Python |   |
-| Costume Contest                 | Python |   |
-| CountTheVowels                  | Python |   |
-| CPRNumber                       | Python |   |
-| Cryptographer                   | Python |   |
-| Cudoviste                       | Python |   |
-| Das Blinkenlights               | Python |   |
-| Datum                           | Python |   |
-| Daylight Savings Time           | Python |   |
-| Death Knight Hero               | Python |   |
-| Delimeter Soup                  | Python |   |
-| Detaled Differences             | Python |   |
-| Dice Cup                        | Python |   |
-| Dice Game                       | Python |   |
-| Different Distances             | Python |   |
-| Digit Product                   | Python |   |
-| Digit Swap                      | Python |   |
-| DoublePassword                  | Python |   |
-| Driver Dilemma                  | Python |   |
-| DRM Messages                    | Python |   |
-| Drunk Vigenere                  | Python |   |
-| Early Winter                    | Python |   |
-| Eeny Meeny                      | Python |   |
-| Egypt                           | Python |   |
-| Electrical Outlets              | Python |   |
-| Eligibility                     | Python |   |
-| Encoded Message                 | Python |   |
-| EpigDanceOff                    | Python |   |
-| Erase Securely                  | Python |   |
-| Estimating Circle               | Python |   |
-| Eulers Number                   | Python |   |
-| Event Planning                  | Python |   |
-| Faktor                          | Python |   |
+| Closing the Loop                | Python, C       | 2019-11-14 |
+| Coconut Splat                   | Python          | 2020-05-20 |
+| Code To Save Lives              | Python          | 2022-09-27 |
+| Cold-puter Science              | Python, C       | 2019-10-18 |
+| Compound Words                  | Python          | 2020-02-17 |
+| Conformity                      | Python          | 2020-06-23 |
+| Cooking Water                   | Python          | 2020-06-15 |
+| Costume Contest                 | Python          | 2020-06-14 |
+| CountTheVowels                  | Python          | 2022-09-27 |
+| CPRNumber                       | Python          | 2022-09-27 |
+| Cryptographer's Conondrum       | Python, C       | 2019-10-18 |
+| Cudoviste                       | Python          | 2020-02-12 |
+| Das Blinkenlights               | Python          | 2020-02-13 |
+| Datum                           | Python, C       | 2019-10-18 |
+| Daylight Savings Time           | Python          | 2020-06-23 |
+| Death Knight Hero               | Python          | 2020-01-29 |
+| Delimeter Soup                  | Python          | 2020-06-06 |
+| Detaled Differences             | Python, C       | 2019-10-18 |
+| Dice Cup                        | Python, C       | 2019-10-18 |
+| Dice Game                       | Python, C       | 2019-11-14 |
+| Different Distances             | Python          | 2019-11-14 |
+| Digital Speedometer             | ???             | ???        |
+| Digit Product                   | Python          | 2020-10-11 |
+| Digit Swap                      | Python          | 2022-09-27 |
+| Double Password                 | Python          | 2022-09-27 |
+| Driver's Dilemma                | Python          | 2020-06-12 |
+| DRM Messages                    | Python          | 2020-02-12 |
+| Drunk Vigenere                  | Python          | 2020-05-18 |
+| Early Winter                    | Python          | 2020-06-05 |
+| Echo Echo Echo                  | Python          | 2022-01-22 |
+| Eeny Meeny                      | Python          | 2019-11-13 |
+| Egypt                           | Python          | 2020-05-29 |
+| Electrical Outlets              | Python          | 2021-01-03 |
+| Eligibility                     | Python          | 2020-01-27 |
+| Encoded Message                 | Python          | 2019-11-02 |
+| EpigDanceOff                    | Python          | 2020-06-08 |
+| Erase Securely                  | Python          | 2020-02-07 |
+| Estimating The Area of a Circle | Python          | 2020-01-27 |
+| Eulers Number                   | Python          | 2020-06-04 |
+| Event Planning                  | Python          | 2020-06-12 |
+| Eye of Sauron                   | Python          | 2022-09-28 |
+| Faktor                          | Python, C, Java, C++, C# | 2019-10-18 |
 | Falling Apart                   | Python |   |
 | False Security                  | Python |   |
 | Fifty Shades of Pink            | Python |   |
