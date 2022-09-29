@@ -105,193 +105,195 @@ Previously I had my solutions to kattis problems all available here, but I have 
 | Grading                         | Python          | 2022-09-27 |
 | Grass Seed                      | Python          | 2019-10-18 |
 | Greedily Increasing Subsequence | Python          | 2020-06-03 |
-| Greedy Polygons                 | Python |   |
-| Greetings!                      | Python |   |
-| Half a Cookie                   | Python |   |
-| Hanging Out                     | Python |   |
-| Hangman                         | Python |   |
-| Harshad Numbers                 | Python |   |
-| Hay Points                      | Python |   |
-| Heart Rate                      | Python |   |
-| Heirs Dilemma                   | Python |   |
-| Heliocentric                    | Python |   |
-| Hello World!                    | Python |   |
-| Help A PhD Candidate Out!       | Python |   |
-| Herman                          | Python |   |
-| Hissing Microphone              | Python |   |
-| Homework                        | Python |   |
-| Honour Thy (Apaxian) Parent     | Python |   |
-| Hot Hike                        | Python |   |
-| Howl                            | Python |   |
-| ICPC Awards                     | Python |   |
-| Identifying Map Tiles           | Python |   |
-| Inflation                       | Python |   |
-| Is it Halloween                 | Python |   |
-| I've Been Everywhere            | Python |   |
-| Janitor Troubles                | Python |   |
-| Jewelry Box                     | Python |   |
-| Job Expenses                    | Python |   |
-| Judging Moose                   | Python |   |
-| Jumbled Compass                 | Python |   |
-| Jumbo Javelin                   | Python |   |
-| Just a Minute                   | Python |   |
-| Kafkaseque                      | Python |   |
-| Karte                           | Python |   |
-| Kemija                          | Python |   |
-| Kitten on a Tree                | Python |   |
-| Kleptography                    | Python |   |
-| KnotKnowledge                   | Python |   |
-| Kornislav                       | Python |   |
-| Krizaljka                       | Python |   |
-| Ladder                          | Python |   |
-| LaptopSticker                   | Python |   |
-| Last Factorial Digit            | Python |   |
-| Left Beehind                    | Python |   |
-| License to Launch               | Python |   |
-| Line Them Up                    | Python |   |
-| Loo Rolls                       | Python |   |
-| Lost Lineup                     | Python |   |
-| Luhn's Checksum Algorithm       | Python |   |
-| Magic Trick                     | Python |   |
-| Mars Window                     | Python |   |
-| Mirror Images                   | Python |   |
-| Missing Numbers                 | Python |   |
-| Mixed Fractions                 | Python |   |
-| Mjehuric                        | Python |   |
-| Modulo                          | Python |   |
-| Moscow Dream                    | Python |   |
-| Mosquito Multiplication         | Python |   |
-| Musical Scales                  | Python |   |
-| Nastyhacks                      | Python |   |
-| No Duplicates                   | Python |   |
-| Not Amused                      | Python |   |
-| N-sum                           | Python |   |
-| Number Fun                      | Python |   |
-| Odd Echo                        | Python |   |
-| Odd Gnome                       | Python |   |
-| Oddities                        | Python |   |
-| Odd Man Out                     | Python |   |
-| Oktalni                         | Python |   |
-| Okvir                           | Python |   |
-| Okviri                          | Python |   |
-| One Chicken Per Person          | Python |   |
-| Ostgotska                       | Python |   |
-| Parking                         | Python |   |
-| Parking2                        | Python |   |
-| Password                        | Python |   |
-| Patuljci                        | Python |   |
-| Paul Eigon                      | Python |   |
-| Peragrams                       | Python |   |
-| Permuted Arithmetic Sequence    | Python |   |
-| Pervasive Heart Monitor         | Python |   |
-| Pet                             | Python |   |
-| Piece of Cake                   | Python |   |
-| Pig Latin                       | Python |   |
-| Pizza Crust                     | Python |   |
-| Planina                         | Python |   |
-| Planting Trees                  | Python |   |
-| Poker Hand                      | Python |   |
-| Polynomial Multiplication 1     | Python |   |
-| Pot                             | Python |   |
-| Prerequisites                   | Python |   |
-| Printing Costs                  | Python |   |
-| Progressive Scramble            | Python |   |
-| Provinces and Gold              | Python |   |
-| Prozor                          | Python |   |
-| Prsteni                         | Python |   |
-| Prva                            | Python |   |
-| Ptice                           | Python |   |
-| Quadrant Selection              | Python |   |
-| Quality-Adjusted Life-Year      | Python |   |
-| Quick Brown Fox                 | Python |   |
-| Quick Estimate                  | Python |   |
-| Quite a Problem                 | Python |   |
-| R2                              | Python |   |
-| Racing Alphabet                 | Python |   |
-| Ragged Right                    | Python |   |
-| Railroad                        | Python |   |
-| Rating Problems                 | Python |   |
-| README.md                       | Python |   |
-| Recount                         | Python |   |
-| Relocation                      | Python |   |
-| Reverse                         | Python |   |
-| Reversed Binary Numbers         | Python |   |
-| Reverse Rot                     | Python |   |
-| Rijeci                          | Python |   |
-| Roaming Romans                  | Python |   |
-| Run-length Encoding             | Python |   |
-| Saving Daylight                 | Python |   |
-| Saving for Retirement           | Python |   |
-| Saving Princess Peach           | Python |   |
-| Scaling Recipes                 | Python |   |
-| School Spirit                   | Python |   |
-| Secret Message                  | Python |   |
-| Secure Doors                    | Python |   |
-| Semafori                        | Python |   |
-| Server                          | Python |   |
-| Seven Wonders                   | Python |   |
-| Shattered Cake                  | Python |   |
-| Sibice                          | Python |   |
-| Sideways Sorting                | Python |   |
-| Simon Says                      | Python |   |
-| Simple Addition                 | Python |   |
-| Skener                          | Python |   |
-| Skocimis                        | Python |   |
-| Smil                            | Python |   |
-| Social Running                  | Python |   |
-| Soda Slurper                    | Python |   |
-| Soft Passwords                  | Python |   |
-| Sok                             | Python |   |
-| Solving For Carrots             | Python |   |
-| Some Sum                        | Python |   |
-| Sort Two Numbers                | Python |   |
-| Soylent                         | Python |   |
-| Spavanac                        | Python |   |
-| Speed Limit                     | Python |   |
-| SquarePeg                       | Python |   |
-| Stacking Cups                   | Python |   |
-| Stand on Zanzibar               | Python |   |
-| Star Arrangements               | Python |   |
-| Statistics                      | Python |   |
-| Stopwatch                       | Python |   |
-| Stuck in a Time Loop            | Python |   |
-| Sum Kind of Problem             | Python |   |
-| Sum of the Others               | Python |   |
-| Sum Squared Digits              | Python |   |
-| Symmetric Order                 | Python |   |
-| Synchronizing Lists             | Python |   |
-| T9 Spelling                     | Python |   |
-| Tai's Formula                   | Python |   |
-| Take Two Stones                 | Python |   |
-| Tarifa                          | Python |   |
-| Tetration                       | Python |   |
-| The Amazing Human Cannonball    | Python |   |
-| The Easiest Problem is This One | Python |   |
-| The Grand Adventure             | Python |   |
-| The Key to Cryptography         | Python |   |
-| The Last Problem                | Python |   |
-| The Owl and the Fox             | Python |   |
-| Timebomb                        | Python |   |
-| ToLower                         | Python |   |
-| Touchscreen Keyboard            | Python |   |
-| Tower Construction              | Python |   |
-| Transit Woes                    | Python |   |
-| Tri                             | Python |   |
-| Triangle Area                   | Python |   |
-| Trik                            | Python |   |
-| Triple Texting                  | Python |   |
-| TurnItUp                        | Python |   |
-| Two-Sum                         | Python |   |
-| UltimateBinaryWatch             | Python |   |
-| Un-bear-able zoo                | Python |   |
-| Unlock Patern                   | Python |   |
-| Vacuumba                        | Python |   |
-| Vauvau                          | Python |   |
-| Veci                            | Python |   |
-| Volim                           | Python |   |
-| Warehouse                       | Python |   |
-| Weak Vertices                   | Python |   |
-| What does the fox say           | Python |   |
-| Which is Greater                | Python |   |
-| Yoda                            | Python |   |
-| Zamka                           | Python |   |
+| Greedy Polygons                 | Python          | 2020-05-21 |
+| Greetings!                      | Python          | 2021-01-03 |
+| Half a Cookie                   | Python          | 2020-02-10 |
+| Hanging Out On The Terrace      | Python          | 2019-11-01 |
+| Hangman                         | Python          | 2020-01-25 |
+| Harshad Numbers                 | Python          | 2019-11-01 |
+| Hay Points                      | Python          | 2020-06-03 |
+| Heart Rate                      | Python          | 2019-10-18 |
+| Heirs Dilemma                   | Python          | 2020-02-07 |
+| Heliocentric                    | Python          | 2020-02-07 |
+| Hello World!                    | Python, C, Java, C++, C# | 2019-10-18 |
+| Help A PhD Candidate Out!       | Python          | 2019-11-13 |
+| Herman                          | Python          | 2019-11-11 |
+| Hissing Microphone              | Python          | 2019-10-18 |
+| Homework                        | Python          | 2021-01-03 |
+| Honour Thy (Apaxian) Parent     | Python          | 2020-02-12 |
+| Hot Hike                        | Python          | 2019-11-01 |
+| Howl                            | Python          | 2020-05-29 |
+| ICPC Awards                     | Python          | 2019-10-31 |
+| Identifying Map Tiles           | Python          | 2020-02-12 |
+| Inflation                       | Python          | 2020-02-07 |
+| Is it Halloween                 | Python          | 2019-10-18 |
+| I've Been Everywhere            | Python          | 2019-10-24 |
+| Jack-O'-Lantern Juxtaposition   | Python, C       | 2021-09-16 |
+| Janitor Troubles                | Python          | 2020-01-24 |
+| Jewelry Box                     | Python          | 2020-01-25 |
+| Job Expenses                    | Python          | 2019-11-13 |
+| Judging Moose                   | Python          | 2019-10-31 |
+| Jumbled Compass                 | Python          | 2020-06-02 |
+| Jumbo Javelin                   | Python          | 2022-01-08 |
+| Just a Minute                   | Python          | 2020-01-25 |
+| Kafkaseque                      | Python          | 2020-02-06 |
+| Karte                           | Python          | 2020-02-05 |
+| Kemija                          | Python          | 2019-10-31 |
+| Kitten on a Tree                | Python          | 2020-02-05 |
+| Kleptography                    | Python          | 2020-05-19 |
+| Knot Knowledge                  | Python          | 2022-09-27 |
+| Kornislav                       | Python          | 2019-10-31 |
+| Krizaljka                       | Python          | 2020-02-05 |
+| Ladder                          | Python, C       | 2019-10-22 |
+| Laptop Sticker                  | Python          | 2022-09-27 |
+| Last Factorial Digit            | Python, C       | 2019-10-18 |
+| Left Beehind                    | Python          | 2020-01-25 |
+| License to Launch               | Python          | 2019-10-29 |
+| Line Them Up                    | Python          | 2019-11-11 |
+| LogDB                           | ???             | ???        |
+| Loo Rolls                       | Python          | 2020-06-02 |
+| Lost Lineup                     | Python          | 2019-11-11 |
+| Luhn's Checksum Algorithm       | Python          | 2019-11-11 |
+| Magic Trick                     | Python          |   |
+| Mars Window                     | Python          |   |
+| Mirror Images                   | Python          |   |
+| Missing Numbers                 | Python          |   |
+| Mixed Fractions                 | Python          |   |
+| Mjehuric                        | Python          |   |
+| Modulo                          | Python          |   |
+| Moscow Dream                    | Python          |   |
+| Mosquito Multiplication         | Python          |   |
+| Musical Scales                  | Python          |   |
+| Nastyhacks                      | Python          |   |
+| No Duplicates                   | Python          |   |
+| Not Amused                      | Python          |   |
+| N-sum                           | Python          |   |
+| Number Fun                      | Python          |   |
+| Odd Echo                        | Python          |   |
+| Odd Gnome                       | Python          |   |
+| Oddities                        | Python          |   |
+| Odd Man Out                     | Python          |   |
+| Oktalni                         | Python          |   |
+| Okvir                           | Python          |   |
+| Okviri                          | Python          |   |
+| One Chicken Per Person          | Python          |   |
+| Ostgotska                       | Python          |   |
+| Parking                         | Python          |   |
+| Parking2                        | Python          |   |
+| Password                        | Python          |   |
+| Patuljci                        | Python          |   |
+| Paul Eigon                      | Python          |   |
+| Peragrams                       | Python          |   |
+| Permuted Arithmetic Sequence    | Python          |   |
+| Pervasive Heart Monitor         | Python          |   |
+| Pet                             | Python          |   |
+| Piece of Cake                   | Python          |   |
+| Pig Latin                       | Python          |   |
+| Pizza Crust                     | Python          |   |
+| Planina                         | Python          |   |
+| Planting Trees                  | Python          |   |
+| Poker Hand                      | Python          |   |
+| Polynomial Multiplication 1     | Python          |   |
+| Pot                             | Python          |   |
+| Prerequisites                   | Python          |   |
+| Printing Costs                  | Python          |   |
+| Progressive Scramble            | Python          |   |
+| Provinces and Gold              | Python          |   |
+| Prozor                          | Python          |   |
+| Prsteni                         | Python          |   |
+| Prva                            | Python          |   |
+| Ptice                           | Python          |   |
+| Quadrant Selection              | Python          |   |
+| Quality-Adjusted Life-Year      | Python          |   |
+| Quick Brown Fox                 | Python          |   |
+| Quick Estimate                  | Python          |   |
+| Quite a Problem                 | Python          |   |
+| R2                              | Python          |   |
+| Racing Alphabet                 | Python          |   |
+| Ragged Right                    | Python          |   |
+| Railroad                        | Python          |   |
+| Rating Problems                 | Python          |   |
+| README.md                       | Python          |   |
+| Recount                         | Python          |   |
+| Relocation                      | Python          |   |
+| Reverse                         | Python          |   |
+| Reversed Binary Numbers         | Python          |   |
+| Reverse Rot                     | Python          |   |
+| Rijeci                          | Python          |   |
+| Roaming Romans                  | Python          |   |
+| Run-length Encoding             | Python          |   |
+| Saving Daylight                 | Python          |   |
+| Saving for Retirement           | Python          |   |
+| Saving Princess Peach           | Python          |   |
+| Scaling Recipes                 | Python          |   |
+| School Spirit                   | Python          |   |
+| Secret Message                  | Python          |   |
+| Secure Doors                    | Python          |   |
+| Semafori                        | Python          |   |
+| Server                          | Python          |   |
+| Seven Wonders                   | Python          |   |
+| Shattered Cake                  | Python          |   |
+| Sibice                          | Python          |   |
+| Sideways Sorting                | Python          |   |
+| Simon Says                      | Python          |   |
+| Simple Addition                 | Python          |   |
+| Skener                          | Python          |   |
+| Skocimis                        | Python          |   |
+| Smil                            | Python          |   |
+| Social Running                  | Python          |   |
+| Soda Slurper                    | Python          |   |
+| Soft Passwords                  | Python          |   |
+| Sok                             | Python          |   |
+| Solving For Carrots             | Python          |   |
+| Some Sum                        | Python          |   |
+| Sort Two Numbers                | Python          |   |
+| Soylent                         | Python          |   |
+| Spavanac                        | Python          |   |
+| Speed Limit                     | Python          |   |
+| SquarePeg                       | Python          |   |
+| Stacking Cups                   | Python          |   |
+| Stand on Zanzibar               | Python          |   |
+| Star Arrangements               | Python          |   |
+| Statistics                      | Python          |   |
+| Stopwatch                       | Python          |   |
+| Stuck in a Time Loop            | Python          |   |
+| Sum Kind of Problem             | Python          |   |
+| Sum of the Others               | Python          |   |
+| Sum Squared Digits              | Python          |   |
+| Symmetric Order                 | Python          |   |
+| Synchronizing Lists             | Python          |   |
+| T9 Spelling                     | Python          |   |
+| Tai's Formula                   | Python          |   |
+| Take Two Stones                 | Python          |   |
+| Tarifa                          | Python          |   |
+| Tetration                       | Python          |   |
+| The Amazing Human Cannonball    | Python          |   |
+| The Easiest Problem is This One | Python          |   |
+| The Grand Adventure             | Python          |   |
+| The Key to Cryptography         | Python          |   |
+| The Last Problem                | Python          |   |
+| The Owl and the Fox             | Python          |   |
+| Timebomb                        | Python          |   |
+| ToLower                         | Python          |   |
+| Touchscreen Keyboard            | Python          |   |
+| Tower Construction              | Python          |   |
+| Transit Woes                    | Python          |   |
+| Tri                             | Python          |   |
+| Triangle Area                   | Python          |   |
+| Trik                            | Python          |   |
+| Triple Texting                  | Python          |   |
+| TurnItUp                        | Python          |   |
+| Two-Sum                         | Python          |   |
+| UltimateBinaryWatch             | Python          |   |
+| Un-bear-able zoo                | Python          |   |
+| Unlock Patern                   | Python          |   |
+| Vacuumba                        | Python          |   |
+| Vauvau                          | Python          |   |
+| Veci                            | Python          |   |
+| Volim                           | Python          |   |
+| Warehouse                       | Python          |   |
+| Weak Vertices                   | Python          |   |
+| What does the fox say           | Python          |   |
+| Which is Greater                | Python          |   |
+| Yoda                            | Python          |   |
+| Zamka                           | Python          |   |
