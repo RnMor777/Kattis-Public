@@ -88,23 +88,23 @@ Previously I had my solutions to kattis problems all available here, but I have 
 | Event Planning                  | Python          | 2020-06-12 |
 | Eye of Sauron                   | Python          | 2022-09-28 |
 | Faktor                          | Python, C, Java, C++, C# | 2019-10-18 |
-| Falling Apart                   | Python |   |
-| False Security                  | Python |   |
-| Fifty Shades of Pink            | Python |   |
-| Filip                           | Python |   |
-| Final Exam                      | Python |   |
-| Fizzbuzz                        | Python |   |
-| Flexible Spaces                 | Python |   |
-| ForcedChoice                    | Python |   |
-| Free Food                       | Python |   |
-| Friday the 13th                 | Python |   |
-| Fun House                       | Python |   |
-| Gerrymandering                  | Python |   |
-| Goat Rope                       | Python |   |
-| Grading                         | Python |   |
-| Grandpa's Checkerboard          | Python |   |
-| Grass Seed                      | Python |   |
-| Greedily Increasing Subsequence | Python |   |
+| Falling Apart                   | Python          | 2020-02-07 |
+| False Sence of Security         | Python          | 2020-01-26 |
+| Fifty Shades of Pink            | Python          | 2020-05-17 |
+| Filip                           | Python          | 2019-10-18 |
+| Final Exam                      | Python          | 2021-01-03 |
+| Finding An A                    | Python          | 2022-09-15 |
+| Fizzbuzz                        | Python          | 2019-10-18 |
+| Flexible Spaces                 | Python          | 2020-02-07 |
+| Forced Choice                   | Python          | 2022-09-27 |
+| Free Food                       | Python          | 2019-11-13 |
+| Friday the 13th                 | Python          | 2020-05-29 |
+| Fun House                       | Python          | 2020-06-04 |
+| Gerrymandering                  | Python          | 2020-01-26 |
+| Goat Rope                       | Python          | 2019-11-13 |
+| Grading                         | Python          | 2022-09-27 |
+| Grass Seed                      | Python          | 2019-10-18 |
+| Greedily Increasing Subsequence | Python          | 2020-06-03 |
 | Greedy Polygons                 | Python |   |
 | Greetings!                      | Python |   |
 | Half a Cookie                   | Python |   |
