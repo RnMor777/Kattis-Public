@@ -5,24 +5,26 @@ Previously I had my solutions to kattis problems all available here, but I have 
 
 # List
 
-| Problem Name                    | Langs  | d |
-|---------------------------------|--------|---|
-| Aaah!                           | Python |   |
-| ABC                             | Python |   |
-| Above Average                   | Python |   |
-| ACM Contest Scoring             | Python |   |
-| Add Two Numbers                 | Python |   |
-| Akcija                          | Python |   |
-| Alphabet Spam                   | Python |   |
-| A New Alphabet                  | Python |   |
-| Another Brick in the Wall       | Python |   |
-| Apaxians                        | Python |   |
-| A Rational Sequence 2           | Python |   |
-| A Real Challenge                | Python |   |
-| Ascii Addition                  | Python |   |
-| A Towering Problem              | Python |   |
-| Autori                          | Python |   |
-| Avion                           | Python |   |
+| Problem Name                    | Languages       | Date       |
+|---------------------------------|-----------------|------------|
+| Aaah!                           | Python, C       | 2019-11-21 |
+| ABC                             | Python          | 2020-06-08 |
+| Above Average                   | Python          | 2020-06-16 |
+| ACM Contest Scoring             | Python, C       | 2019-11-25 |
+| Add Two Numbers                 | Python          | 2022-03-31 |
+| Akcija                          | Python          | 2020-06-16 |
+| Alphabet Spam                   | Python, C       | 2019-10-18 |
+| A New Alphabet                  | Python          | 2020-05-27 |
+| Another Brick in the Wall       | Python          | 2020-06-08 |
+| Apaxiaaaaaaaaaaaans!            | Python, C       | 2019-10-18 |
+| A Rational Sequence 2           | Python          | 2020-05-19 |
+| A Real Challenge                | Python          | 2020-01-29 |
+| Ascii Addition                  | Python          | 2020-06-06 |
+| A Towering Problem              | Python          | 2020-06-16 |
+| Autori                          | Python, C       | 2019-10-18 |
+| Avion                           | Python, Java, C | 2019-10-18 |
+
+
 | Babelfish                       | Python |   |
 | Baby Bites                      | Python |   |
 | Bacon, Eggs, and Spam           | Python |   |
