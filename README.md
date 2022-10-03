@@ -154,89 +154,90 @@ Previously I had my solutions to kattis problems all available here, but I have 
 | Loo Rolls                       | Python          | 2020-06-02 |
 | Lost Lineup                     | Python          | 2019-11-11 |
 | Luhn's Checksum Algorithm       | Python          | 2019-11-11 |
-| Magic Trick                     | Python          |   |
-| Mars Window                     | Python          |   |
-| Mirror Images                   | Python          |   |
-| Missing Numbers                 | Python          |   |
-| Mixed Fractions                 | Python          |   |
-| Mjehuric                        | Python          |   |
-| Modulo                          | Python          |   |
-| Moscow Dream                    | Python          |   |
-| Mosquito Multiplication         | Python          |   |
-| Musical Scales                  | Python          |   |
-| Nastyhacks                      | Python          |   |
-| No Duplicates                   | Python          |   |
-| Not Amused                      | Python          |   |
-| N-sum                           | Python          |   |
-| Number Fun                      | Python          |   |
-| Odd Echo                        | Python          |   |
-| Odd Gnome                       | Python          |   |
-| Oddities                        | Python          |   |
-| Odd Man Out                     | Python          |   |
-| Oktalni                         | Python          |   |
-| Okvir                           | Python          |   |
-| Okviri                          | Python          |   |
-| One Chicken Per Person          | Python          |   |
-| Ostgotska                       | Python          |   |
-| Parking                         | Python          |   |
-| Parking2                        | Python          |   |
-| Password                        | Python          |   |
-| Patuljci                        | Python          |   |
-| Paul Eigon                      | Python          |   |
-| Peragrams                       | Python          |   |
-| Permuted Arithmetic Sequence    | Python          |   |
-| Pervasive Heart Monitor         | Python          |   |
-| Pet                             | Python          |   |
-| Piece of Cake                   | Python          |   |
-| Pig Latin                       | Python          |   |
-| Pizza Crust                     | Python          |   |
-| Planina                         | Python          |   |
-| Planting Trees                  | Python          |   |
-| Poker Hand                      | Python          |   |
-| Polynomial Multiplication 1     | Python          |   |
-| Pot                             | Python          |   |
-| Prerequisites                   | Python          |   |
-| Printing Costs                  | Python          |   |
-| Progressive Scramble            | Python          |   |
-| Provinces and Gold              | Python          |   |
-| Prozor                          | Python          |   |
-| Prsteni                         | Python          |   |
-| Prva                            | Python          |   |
-| Ptice                           | Python          |   |
-| Quadrant Selection              | Python          |   |
-| Quality-Adjusted Life-Year      | Python          |   |
-| Quick Brown Fox                 | Python          |   |
-| Quick Estimate                  | Python          |   |
-| Quite a Problem                 | Python          |   |
-| R2                              | Python          |   |
-| Racing Alphabet                 | Python          |   |
-| Ragged Right                    | Python          |   |
-| Railroad                        | Python          |   |
-| Rating Problems                 | Python          |   |
-| README.md                       | Python          |   |
-| Recount                         | Python          |   |
-| Relocation                      | Python          |   |
-| Reverse                         | Python          |   |
-| Reversed Binary Numbers         | Python          |   |
-| Reverse Rot                     | Python          |   |
-| Rijeci                          | Python          |   |
-| Roaming Romans                  | Python          |   |
-| Run-length Encoding             | Python          |   |
-| Saving Daylight                 | Python          |   |
-| Saving for Retirement           | Python          |   |
-| Saving Princess Peach           | Python          |   |
-| Scaling Recipes                 | Python          |   |
-| School Spirit                   | Python          |   |
-| Secret Message                  | Python          |   |
-| Secure Doors                    | Python          |   |
-| Semafori                        | Python          |   |
-| Server                          | Python          |   |
-| Seven Wonders                   | Python          |   |
-| Shattered Cake                  | Python          |   |
-| Sibice                          | Python          |   |
-| Sideways Sorting                | Python          |   |
-| Simon Says                      | Python          |   |
-| Simple Addition                 | Python          |   |
+| Magic Trick                     | Python          | 2022-03-31 |
+| Mars Window                     | Python          | 2020-06-17 |
+| Mirror Images                   | Python          | 2020-02-05 |
+| Missing Numbers                 | Python          | 2020-02-05 |
+| Mixed Fractions                 | Python          | 2019-11-11 |
+| Mjehuric                        | Python          | 2020-01-25 |
+| Modulo                          | Python          | 2019-11-11 |
+| Moscow Dream                    | Python          | 2020-01-25 |
+| Mosquito Multiplication         | Python          | 2020-05-29 |
+| MrCodeFormatGrader              | Python          | 2022-09-29 |
+| Mult!                           | ???             | ???        |
+| Musical Scales                  | Python          | 2020-02-10 |
+| Nasty Hacks                     | Python          | 2019-10-18 |
+| No Duplicates                   | Python          | 2019-10-29 |
+| Not Amused                      | Python          | 2020-06-11 |
+| N-sum                           | Python          | 2022-01-08 |
+| Number Fun                      | Python          | 2019-11-11 |
+| Odd Echo                        | Python          | 2022-01-08 |
+| Odd Gnome                       | Python          | 2020-02-05 |
+| Oddities                        | Python          | 2019-10-18 |
+| Odd Man Out                     | Python          | 2019-10-29 |
+| Oktalni                         | Python          | 2020-05-29 |
+| Okvir                           | Python          | 2020-06-11 |
+| Okviri                          | Python          | 2020-02-23 |
+| One Chicken Per Person          | Python          | 2019-11-11 |
+| Ostgotska                       | Python          | 2020-02-03 |
+| Parking                         | Python          | 2019-10-31 |
+| Parking2                        | Python          | 2020-01-25 |
+| Password Hacking                | Python          | 2020-06-23 |
+| Patuljci                        | Python          | 2020-02-23 |
+| Paul Eigon                      | Python          | 2020-02-03 |
+| Peragrams                       | Python          | 2020-02-03 |
+| Permuted Arithmetic Sequence    | Python          | 2020-06-02 |
+| Pervasive Heart Monitor         | Python          | 2020-02-03 |
+| Pet                             | Python          | 2019-10-18 |
+| Piece of Cake                   | Python          | 2019-10-27 |
+| Pig Latin                       | Python          | 2020-06-10 |
+| Pizza Crust                     | Python          | 2020-01-24 |
+| Planina                         | Python, C       | 2019-10-18 |
+| Planting Trees                  | Python          | 2020-06-02 |
+| Poker Hand                      | Python          | 2019-10-29 |
+| Polynomial Multiplication 1     | Python          | 2020-06-10 |
+| Pot                             | Python          | 2019-10-18 |
+| Prerequisites                   | Python          | 2020-05-31 |
+| Printing Costs                  | Python          | 2020-06-20 |
+| Progressive Scramble            | Python          | 2020-06-10 |
+| Provinces and Gold              | Python          | 2019-10-27 |
+| Prozor                          | Python          | 2020-02-10 |
+| Prsteni                         | Python          | 2020-02-09 |
+| Prva                            | Python          | 2020-02-09 |
+| Ptice                           | Python          | 2019-11-11 |
+| Quadrant Selection              | Python, C       | 2019-10-18 |
+| Quality-Adjusted Life-Year      | Python          | 2019-10-18 |
+| Quick Brown Fox                 | Python          | 2020-01-24 |
+| Quick Estimate                  | Python          | 2019-11-11 |
+| Quite a Problem                 | Python          | 2020-06-09 |
+| R2                              | Python, C       | 2019-10-18 |
+| Racing Around the Alphabet      | Python          | 2019-11-10 |
+| Ragged Right                    | Python          | 2020-02-19 |
+| Railroad                        | Python          | 2019-10-27 |
+| Rating Problems                 | Python          | 2022-01-08 |
+| Recount                         | Python          | 2020-06-20 |
+| Relocation                      | Python          | 2019-11-10 |
+| Reverse                         | Python          | 2021-01-03 |
+| Reversed Binary Numbers         | Python          | 2019-10-27 |
+| Reverse Rot                     | Python          | 2019-11-07 |
+| Rijeci                          | Python          | 2019-11-06 |
+| Roaming Romans                  | Python          | 2019-10-24 |
+| Run-length Encoding             | Python          | 2020-05-27 |
+| Saving Daylight                 | Python          | 2020-06-20 |
+| Saving for Retirement           | Python          | 2020-02-19 |
+| Saving Princess Peach           | Python          | 2020-06-23 |
+| Scaling Recipes                 | Python          | 2020-05-28 |
+| School Spirit                   | Python          | 2020-05-16 |
+| Secret Message                  | Python          | 2020-05-26 |
+| Secure Doors                    | Python          | 2020-02-19 |
+| Semafori                        | Python          | 2020-05-31 |
+| Server                          | Python          | 2020-02-19 |
+| Seven Wonders                   | Python          | 2019-10-24 |
+| Shattered Cake                  | Python          | 2020-05-18 |
+| Sibice                          | Python          | 2019-10-18 |
+| Sideways Sorting                | Python          | 2020-06-05 |
+| Simon Says                      | Python          | 2020-01-24 |
+| Simple Addition                 | Python          | 2020-05-31 |
 | Skener                          | Python          |   |
 | Skocimis                        | Python          |   |
 | Smil                            | Python          |   |
