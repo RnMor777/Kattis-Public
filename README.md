@@ -238,63 +238,66 @@ Previously I had my solutions to kattis problems all available here, but I have 
 | Sideways Sorting                | Python          | 2020-06-05 |
 | Simon Says                      | Python          | 2020-01-24 |
 | Simple Addition                 | Python          | 2020-05-31 |
-| Skener                          | Python          |   |
-| Skocimis                        | Python          |   |
-| Smil                            | Python          |   |
-| Social Running                  | Python          |   |
-| Soda Slurper                    | Python          |   |
-| Soft Passwords                  | Python          |   |
-| Sok                             | Python          |   |
-| Solving For Carrots             | Python          |   |
-| Some Sum                        | Python          |   |
-| Sort Two Numbers                | Python          |   |
-| Soylent                         | Python          |   |
-| Spavanac                        | Python          |   |
-| Speed Limit                     | Python          |   |
-| SquarePeg                       | Python          |   |
-| Stacking Cups                   | Python          |   |
-| Stand on Zanzibar               | Python          |   |
-| Star Arrangements               | Python          |   |
-| Statistics                      | Python          |   |
-| Stopwatch                       | Python          |   |
-| Stuck in a Time Loop            | Python          |   |
-| Sum Kind of Problem             | Python          |   |
-| Sum of the Others               | Python          |   |
-| Sum Squared Digits              | Python          |   |
-| Symmetric Order                 | Python          |   |
-| Synchronizing Lists             | Python          |   |
-| T9 Spelling                     | Python          |   |
-| Tai's Formula                   | Python          |   |
-| Take Two Stones                 | Python          |   |
-| Tarifa                          | Python          |   |
-| Tetration                       | Python          |   |
-| The Amazing Human Cannonball    | Python          |   |
-| The Easiest Problem is This One | Python          |   |
-| The Grand Adventure             | Python          |   |
-| The Key to Cryptography         | Python          |   |
-| The Last Problem                | Python          |   |
-| The Owl and the Fox             | Python          |   |
-| Timebomb                        | Python          |   |
-| ToLower                         | Python          |   |
-| Touchscreen Keyboard            | Python          |   |
-| Tower Construction              | Python          |   |
-| Transit Woes                    | Python          |   |
-| Tri                             | Python          |   |
-| Triangle Area                   | Python          |   |
-| Trik                            | Python          |   |
-| Triple Texting                  | Python          |   |
-| TurnItUp                        | Python          |   |
-| Two-Sum                         | Python          |   |
-| UltimateBinaryWatch             | Python          |   |
-| Un-bear-able zoo                | Python          |   |
-| Unlock Patern                   | Python          |   |
-| Vacuumba                        | Python          |   |
-| Vauvau                          | Python          |   |
-| Veci                            | Python          |   |
-| Volim                           | Python          |   |
-| Warehouse                       | Python          |   |
-| Weak Vertices                   | Python          |   |
-| What does the fox say           | Python          |   |
-| Which is Greater                | Python          |   |
-| Yoda                            | Python          |   |
-| Zamka                           | Python          |   |
+| Skener                          | Python          | 2019-10-24 |
+| Skocimis                        | Python          | 2020-01-24 |
+| Smil                            | Python          | 2022-09-27 |
+| Social Running                  | Python          | 2020-05-31 |
+| Soda Slurper                    | Python          | 2020-01-24 |
+| Soft Passwords                  | Python          | 2020-02-19 |
+| Sok                             | Python          | 2020-02-19 |
+| Solving For Carrots             | Python, C, C#   | 2019-10-18 |
+| Some Sum                        | Python          | 2019-11-18 |
+| Sort Two Numbers                | Python          | 2022-01-08 |
+| Soylent                         | Python          | 2020-01-31 |
+| Spavanac                        | Python          | 2019-10-18 |
+| Speeding                        | Python          | 2022-09-29 |
+| Speed Limit                     | Python          | 2019-10-24 |
+| Square Peg                      | Python          | 2022-09-28 |
+| Stacking Cups                   | Python          | 2019-11-06 |
+| Stand on Zanzibar               | Python          | 2019-10-24 |
+| Star Arrangements               | Python          | 2019-10-24 |
+| Statistics                      | Python          | 2020-02-17 |
+| Stopwatch                       | Python          | 2022-01-08 |
+| Stuck in a Time Loop            | Python          | 2019-10-18 |
+| Sum Kind of Problem             | Python          | 2020-05-18 |
+| Sum of the Others               | Python          | 2020-05-31 |
+| Sum Squared Digits              | Python          | 2019-10-23 |
+| Symmetric Order                 | Python          | 2019-10-23 |
+| Synchronizing Lists             | Python          | 2020-01-24 |
+| T9 Spelling                     | Python          | 2020-01-31 |
+| Tai's Formula                   | Python          | 2019-10-27 |
+| Take Two Stones                 | Python          | 2019-10-18 |
+| Tarifa                          | Python          | 2019-10-23 |
+| Tetration                       | Python          | 2020-01-30 |
+| Thank God It's Friday           | Python          | 2022-09-19 |
+| The Amazing Human Cannonball    | Python          | 2019-10-22 |
+| The Easiest Problem is This One | Python          | 2019-11-06 |
+| The Grand Adventure             | Python          | 2020-06-09 |
+| The Key to Cryptography         | Python          | 2020-05-27 |
+| The Last Problem                | Python          | 2020-08-18 |
+| The Owl and the Fox             | Python          | 2020-05-28 |
+| This Ain't Your Grandpa's Checkerboard| Python    | 2019-11-18 |
+| Tic-Tac State                   | ???             | ???        |
+| Timebomb                        | Python          | 2020-05-28 |
+| ToLower                         | Python          | 2020-02-16 |
+| Touchscreen Keyboard            | Python          | 2020-05-30 |
+| Tower Construction              | Python          | 2020-10-11 |
+| Transit Woes                    | Python          | 2020-05-16 |
+| Tri                             | Python          | 2019-11-06 |
+| Triangle Area                   | Python          | 2022-03-31 |
+| Trik                            | Python          | 2019-10-19 |
+| Triple Texting                  | Python          | 2020-05-16 |
+| Two-Sum                         | Python          | 2022-01-08 |
+| Ultimate Binary Watch           | Python          | 2022-09-27 |
+| Un-bear-able zoo                | Python          | 2020-02-16 |
+| Unlock Patern                   | Python          | 2020-02-09 |
+| Vacuumba                        | Python          | 2020-05-30 |
+| Vauvau                          | Python          | 2020-02-08 |
+| Veci                            | Python          | 2020-05-26 |
+| Volim                           | Python          | 2019-11-21 |
+| Warehouse                       | Python          | 2020-06-17 |
+| Weak Vertices                   | Python          | 2020-05-19 |
+| What does the fox say           | Python          | 2020-06-17 |
+| Which is Greater                | Python          | 2022-03-31 |
+| Yoda                            | Python          | 2020-06-17 |
+| Zamka                           | Python          | 2019-10-19 |
