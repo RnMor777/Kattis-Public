@@ -49,6 +49,7 @@ Previously I had my solutions to kattis problems all available here, but I have 
 | Closing the Loop                | Python, C       | 2019-11-14 |
 | Coconut Splat                   | Python          | 2020-05-20 |
 | Code To Save Lives              | Python          | 2022-09-27 |
+| Coffee Cup Combo                | Python          | 2022-10-12 |
 | Cold-puter Science              | Python, C       | 2019-10-18 |
 | Compound Words                  | Python          | 2020-02-17 |
 | Conformity                      | Python          | 2020-06-23 |
@@ -70,6 +71,7 @@ Previously I had my solutions to kattis problems all available here, but I have 
 | Digital Speedometer             | ???             | ???        |
 | Digit Product                   | Python          | 2020-10-11 |
 | Digit Swap                      | Python          | 2022-09-27 |
+| Divvying Up                     | Python          | 2022-10-12 |
 | Double Password                 | Python          | 2022-09-27 |
 | Driver's Dilemma                | Python          | 2020-06-12 |
 | DRM Messages                    | Python          | 2020-02-12 |
